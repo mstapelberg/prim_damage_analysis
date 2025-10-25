@@ -1,0 +1,58 @@
+{
+    "3685519": {
+      "temperature_K": 300,
+      "composition": "V-1_2Ti"
+    },
+    "3685636": {
+      "temperature_K": 300,
+      "composition": "V-4Cr-4Ti"
+    },
+    "3690631": {
+      "temperature_K": 300,
+      "composition": "V-17Cr-7Ti"
+    },
+    "3685521": {
+      "temperature_K": 300,
+      "composition": "V-12Cr-12Ti"
+    },
+    "3685641": {
+      "temperature_K": 300,
+      "composition": "V-7Cr-17Ti"
+    },
+    "3681721": {
+      "temperature_K": 300,
+      "composition": "V-2Cr-2Ti-2W-2Zr"
+    },
+    "3685637": {
+      "temperature_K": 300,
+      "composition": "V-6Cr-6Ti-6W-6Zr"
+    },
+    "3681716": {
+      "temperature_K": 873,
+      "composition": "V-1_2Ti"
+    },
+    "3693617": {
+      "temperature_K": 873,
+      "composition": "V-4Cr-4Ti"
+    },
+    "3693620": {
+      "temperature_K": 873,
+      "composition": "V-17Cr-7Ti"
+    },
+    "3693619": {
+      "temperature_K": 873,
+      "composition": "V-12Cr-12Ti"
+    },
+    "3681720": {
+      "temperature_K": 873,
+      "composition": "V-7Cr-17Ti"
+    },
+    "3685523": {
+      "temperature_K": 873,
+      "composition": "V-2Cr-2Ti-2W-2Zr"
+    },
+    "3690627": {
+      "temperature_K": 873,
+      "composition": "V-6Cr-6Ti-6W-6Zr"
+    }
+  }
