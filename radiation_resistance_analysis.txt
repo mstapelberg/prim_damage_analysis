@@ -1,0 +1,43 @@
+RADIATION RESISTANCE ANALYSIS REPORT
+==================================================
+
+1. COMPOSITION COMPARISON
+------------------------------
+Best composition: V-7Cr-17Ti
+Worst composition: V-2Cr-2Ti-2W-2Zr
+
+RRI Rankings (higher = better):
+1. V-7Cr-17Ti: 0.0182
+2. V-17Cr-7Ti: 0.0026
+3. V-12Cr-12Ti: -0.0171
+4. V-4Cr-4Ti: -0.0330
+5. V-1_2Ti: -0.0531
+6. V-2Cr-2Ti-2W-2Zr: -0.1301
+
+2. TEMPERATURE EFFECTS
+------------------------------
+Temperature correlation with RRI_phys: -0.2713
+Temperature correlation with RRI_ml: -0.0000
+
+Linear fit for RRI_phys vs Temperature:
+  Slope: -0.000278 RRI/K
+  R²: 0.0736
+  P-value: 0.0360
+
+3. FEATURE IMPORTANCE
+------------------------------
+Most important features (by coefficient magnitude):
+  crowdion_fraction: -475.4561 (importance: 98.7%)
+  turn_rate_dumbbell_per_ps: 3.0494 (importance: 0.6%)
+  dumbbell_mean_net_displacement_A: 2.2149 (importance: 0.5%)
+  crowdion_mean_v111_Aps: -0.3911 (importance: 0.1%)
+  dumbbell_mean_tortuosity: -0.3796 (importance: 0.1%)
+  temperature_K: -0.0004 (importance: 0.0%)
+
+4. SUMMARY STATISTICS
+------------------------------
+Total runs analyzed: 61
+Compositions: V-12Cr-12Ti, V-17Cr-7Ti, V-1_2Ti, V-2Cr-2Ti-2W-2Zr, V-4Cr-4Ti, V-7Cr-17Ti
+Temperature range: 300 - 873 K
+RRI_phys range: -0.6531 - 0.5935
+RRI_ml range: -1.7050 - 1.8189

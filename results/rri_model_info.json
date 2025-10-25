@@ -1,0 +1,9 @@
+{
+  "intercept": -9.401310908851356,
+  "crowdion_fraction": -475.45612454122136,
+  "crowdion_mean_v111_Aps": -0.391140870236309,
+  "dumbbell_mean_net_displacement_A": 2.214899019686692,
+  "dumbbell_mean_tortuosity": -0.3795617684674221,
+  "turn_rate_dumbbell_per_ps": 3.0493947012505522,
+  "temperature_K": -0.00039342624257785266
+}
